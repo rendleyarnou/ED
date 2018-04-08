@@ -8,7 +8,7 @@
 
 * Com quem você fez?
 	<p>Com a ajuda de um colega de uma disciplina ja cursada anteriormente, Sting,
-  me ajudou entender a lógica de como funcionava os desenhos dos fractais.</p>
+  me ajudou entender a lógica de como funcionava os desenhos dos fractais, e alguns métodos de implementação.</p>
 
 * O que você aprendeu e sabe fazer?
 	<p>Fui capaz de compreender como funciona recursividade com a "leitura" das funções
