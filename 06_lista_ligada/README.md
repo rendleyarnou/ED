@@ -15,7 +15,7 @@
   	e pegar todos os vizinhos, onde explorava a lógica de norteamento 
   	em uma matriz.</p>
   
-  * O que tem dificuldade ainda?
+* O que tem dificuldade ainda?
 	<p>Em alguns trechos de código onde não estive muito atento em sala 
 	de aula para acompanhar o desenvolvimento.</p>
 
