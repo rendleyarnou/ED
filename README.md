@@ -8,6 +8,6 @@
   <p>-> 04_fractais: ENTREGUE.</p>
   <p>-> 05_lab_pilha: ENTREGUE.</p>
   <p>-> 06_lista_ligada ENTREGUE.</p>
-  <p>-> 07_editor: PENDENTE.</p>
+  <p>-> 07_editor: ENTREGUE.</p>
   <p>-> 08_simulacao_fila_de_banco: PENDENTE.</p>
   <p>-> 09_ordenacao: PENDENTE.</p>
