@@ -12,7 +12,8 @@
   mais uma ação.</p>
 
 * O que você aprendeu e sabe fazer?
-	<p>Fui capaz de compreender como funciona a lógica por trás de um editor de texto.</p>
+	<p>Fui capaz de compreender como funciona a lógica por trás de um editor de texto
+	e algumas determinadas ações da edição.</p>
   
 * O que tem dificuldade ainda?
 	<p>Não consegui compreender como acessar a lista de ambientes para implementar outras duas ações
