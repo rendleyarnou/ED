@@ -10,4 +10,3 @@
   <p>-> 06_lista_ligada ENTREGUE.</p>
   <p>-> 07_editor: ENTREGUE.</p>
   <p>-> 08_simulacao_fila_de_banco: PENDENTE.</p>
-  <p>-> 09_ordenacao: PENDENTE.</p>
